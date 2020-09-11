@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mylawfirm.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mylawfirm.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mylawfirm.myshopify.com/collections/books.atom"/>
+  <title>The Drama Book Shop, Inc.</title>
+  <updated>2020-07-20T04:36:31-04:00</updated>
+  <author>
+    <name>The Drama Book Shop, Inc.</name>
+  </author>
+  <entry>
+    <id>https://mylawfirm.myshopify.com/products/5480403796130</id>
+    <published>2020-07-20T04:36:31-04:00</published>
+    <updated>2020-07-20T04:36:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mylawfirm.myshopify.com/products/negotiating-technology-contracts"/>
+    <title>Negotiating Technology Contracts</title>
+    <s:type>book</s:type>
+    <s:vendor>The Drama Book Shop, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/1532/6370/products/book-003.jpg?v=1595234191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Drama Book Shop, Inc.<br>
+        <strong>Type: </strong>book<br>
+        <strong>Price: </strong>
+            231.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-single__description rte">
+<p>Negotiating technology-related contracts can be a long and energy-consuming business. For the uninitiated or uninformed, the significance of the points under discussion may be unclear, and it can often seem that contract negotiators are pedantic, obstructive or just plain unhelpful in terms of “getting the deal done”.</p>
+<p>In this context, it is essential to have a clear understanding of just what each part of the contract is designed to deal with, what both the customer and service provider are seeking to protect, and what potential compromise solutions may be available. As a result, one can avoid unnecessary debate and move faster to reasonable positions that are acceptable to both parties.</p>
+<p>This practical, how-to book seeks to explain the perspectives of both sides of the negotiating table on a clause-by-clause basis, clearly setting out the key points they will want to protect – and why – while also offering suggestions as to what they may be willing to concede or compromise upon. It is written with the benefit of DLA Piper’s unparalleled view of the global market for technology sourcing and outsourcing projects, and from acting both for customers and service providers in this space.</p>
+<p>An invaluable negotiating guide, this edition will be of particular interest to anyone involved in technology-related contracts.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mylawfirm.myshopify.com/products/5480403796130</id>
+      <title>Default Title</title>
+      <s:price currency="USD">231.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mylawfirm.myshopify.com/products/5480396587170</id>
+    <published>2020-07-20T04:34:43-04:00</published>
+    <updated>2020-07-20T04:34:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mylawfirm.myshopify.com/products/5g-nr-the-next-generation-wireless-access-technology"/>
+    <title>5G NR: The Next Generation Wireless Access Technology</title>
+    <s:type>book</s:type>
+    <s:vendor>The Drama Book Shop, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/1532/6370/products/book-002.jpg?v=1595234083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Drama Book Shop, Inc.<br>
+        <strong>Type: </strong>book<br>
+        <strong>Price: </strong>
+            79.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-single__description rte">
+<p>5G NR: The Next Generation Wireless Access Technology follows the authors' highly celebrated books on 3G and 4G by providing a new level of insight into 5G NR. After an initial discussion of the background to 5G, including requirements, spectrum aspects and the standardization timeline, all technology features of the first phase of NR are described in detail.</p>
+<p>Included is a detailed description of the NR physical-layer structure and higher-layer protocols, RF and spectrum aspects and co-existence and interworking with LTE. The book provides a good understanding of NR and the different NR technology components, giving insight into why a certain solution was selected.</p>
+<p>Content includes:</p>
+<p>Key radio-related requirements of NR, design principles, technical features<br> Details of basic NR transmission structure, showing where it has been inherited from LTE and where it deviates from it, and the reasons why<br> NR Multi-antenna transmission functionality<br> Detailed description of the signals and functionality of the initial NR access, including signals for synchronization and system information, random access and paging<br> LTE/NR co-existence in the same spectrum, the benefits of their interworking as one system<br> The different aspects of mobility in NR RF requirements for NR will be described both for BS and UE, both for the legacy bands and for the new mm-wave bands<br> Gives a concise and accessible explanation of the underlying technology and standards for 5G NR radio-access technology<br> Provides detailed description of the NR physical-layer structure and higher-layer protocols, RF and spectrum aspects and co-existence and interworking with LTE<br> Gives insight not only into the details of the NR specification but also an understanding of why certain solutions look like they do</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mylawfirm.myshopify.com/products/5480396587170</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mylawfirm.myshopify.com/products/5480316141730</id>
+    <published>2020-07-20T04:16:36-04:00</published>
+    <updated>2020-07-20T04:16:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mylawfirm.myshopify.com/products/5g-nr-architecture-technology-implementation-and-operation-of-3gpp-new-radio-standards"/>
+    <title>5G NR: Architecture, Technology, Implementation, and Operation of 3GPP New Radio Standards</title>
+    <s:type>book</s:type>
+    <s:vendor>The Drama Book Shop, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/1532/6370/products/book-001.jpg?v=1595233128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Drama Book Shop, Inc.<br>
+        <strong>Type: </strong>book<br>
+        <strong>Price: </strong>
+            67.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-single__description rte">
+<p>5G NR: Architecture, Technology, Implementation, and Operation of 3GPP New Radio Standards is an in-depth, systematic, technical reference on 3GPP's New Radio standards (Release 15 and beyond), covering the underlying theory, functional descriptions, practical considerations and implementation of the 5G new radio access technology. The book describes the design and operation of individual components and shows how they are integrated into the overall system and operate from a systems perspective. Uniquely, this book gives detailed information on RAN protocol layers, transport, network architecture and services, as well as practical implementation and deployment issues, making it suitable for researchers and engineers who are designing and developing 5G systems.</p>
+<p>Reflecting on the author's 30 plus years of experience in signal processing, microelectronics and wireless communication system design, this book is ideal for professional engineers, researchers and graduate students working and researching in cellular communication systems and protocols as well as mobile broadband wireless standards.</p>
+<p>Strong focus on practical considerations, implementation and deployment issues<br> Takes a top-down approach to explain system operation and functional interconnection<br> Covers all functional components, features, and interfaces based on clear protocol structure and block diagrams<br> Describes RF and transceiver design considerations in sub-6 GHz and mmWave bands<br> Covers network slicing, SDN/NFV/MEC networks and cloud and virtualized RAN architectures<br> Comprehensive coverage of NR multi-antenna techniques and beamformed operation<br> A consistent and integrated coverage reflecting the author’s decades of experience in developing 3G, 4G and 5G technologies and writing two successful books in these areas</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mylawfirm.myshopify.com/products/5480316141730</id>
+      <title>Default Title</title>
+      <s:price currency="USD">67.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

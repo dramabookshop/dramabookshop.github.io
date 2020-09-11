@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mylawfirm.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mylawfirm.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mylawfirm.myshopify.com/collections/sports-law-collection.atom"/>
+  <title>The Drama Book Shop, Inc.</title>
+  <updated>2020-07-23T17:35:31-04:00</updated>
+  <author>
+    <name>The Drama Book Shop, Inc.</name>
+  </author>
+  <entry>
+    <id>https://mylawfirm.myshopify.com/products/5500704391330</id>
+    <published>2020-07-23T17:35:31-04:00</published>
+    <updated>2020-07-23T17:35:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mylawfirm.myshopify.com/products/physiology-of-sport-and-exercise"/>
+    <title>Physiology of Sport and Exercise</title>
+    <s:type>book</s:type>
+    <s:vendor>The Drama Book Shop, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/1532/6370/products/book-009.jpg?v=1595540131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Drama Book Shop, Inc.<br>
+        <strong>Type: </strong>book<br>
+        <strong>Price: </strong>
+            110.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-single__description rte">
+<p>Written by a team of distinguished researchers, all past presidents of the American College of Sports Medicine, the seventh edition of Physiology of Sport and Exercise continues its legacy as a top physiology textbook and a favorite of instructors and students alike.</p>
+<p>Framing research in a reader-friendly format supported with detailed illustrations and medical artwork, the seventh edition of Physiology of Sport and Exercise is complemented by the following:<br></p>
+<ul>
+<li>Updated information on exercise genomics, fatigue, mobility in aging, and overtraining and exercise addiction</li>
+<li>New content on epigenetics, bioinformatics, and neuromuscular function<br>
+</li>
+</ul>
+<p>Additional Research Perspectives emphasizing new and emerging findings in the field, and a new Research Perspectives Finder to help readers locate key content quickly<br> The book is further enhanced with online support:<br></p>
+<ul>
+<li>26 animations offer a dynamic way to experience course material</li>
+<li>66 audio clips provide explanations of complex physiological processes</li>
+<li>27 video clips feature leaders in the field discussing recent developments<br>
+</li>
+</ul>
+<p>A web study guide includes quizzes as well as end-of-unit mastery checks for students to evaluate their progress.<br></p>
+<p>Instructors are provided with ancillaries, including an instructor guide, test package, chapter quizzes, and presentation package plus image bank, as well as use of the online animations, videos, and audio clips, all accessible online.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mylawfirm.myshopify.com/products/5500704391330</id>
+      <title>Default Title</title>
+      <s:price currency="USD">110.12</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mylawfirm.myshopify.com/products/5500701442210</id>
+    <published>2020-07-23T17:32:28-04:00</published>
+    <updated>2020-07-23T17:32:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mylawfirm.myshopify.com/products/the-economics-of-sports"/>
+    <title>The Economics of Sports</title>
+    <s:type>book</s:type>
+    <s:vendor>The Drama Book Shop, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/1532/6370/products/book-008.jpg?v=1595539948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Drama Book Shop, Inc.<br>
+        <strong>Type: </strong>book<br>
+        <strong>Price: </strong>
+            141.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The sports industry provides a seemingly endless set of examples from every area of microeconomics, giving students the opportunity to study economics in a context that holds their interest. Thoroughly updated to reflect the current sports landscape, The Economics of Sports introduces core economic concepts and theories and applies them to American and international sports.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mylawfirm.myshopify.com/products/5500701442210</id>
+      <title>Default Title</title>
+      <s:price currency="USD">141.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mylawfirm.myshopify.com/products/5500699279522</id>
+    <published>2020-07-23T17:30:29-04:00</published>
+    <updated>2020-07-23T17:30:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mylawfirm.myshopify.com/products/sports-law-governance-and-regulation-aspen-college-series"/>
+    <title>Sports Law: Governance and Regulation (Aspen College Series)</title>
+    <s:type>book</s:type>
+    <s:vendor>The Drama Book Shop, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/1532/6370/products/book-007.jpg?v=1595539829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Drama Book Shop, Inc.<br>
+        <strong>Type: </strong>book<br>
+        <strong>Price: </strong>
+            133.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The authors of the leading sports law casebook joined with two of the leaders in the sports law field to develop a problem-based sports law and governance text for undergraduate and graduate students. The text is presented in the traditional law school case method style, with a unique focus on how those regulatory and governance materials can be used to solve problems in sports, from issues like Deflategate to the future of big-time intercollegiate athletics. Whether students are interested in careers in professional or amateur sports law, they will acquire foundational knowledge that will help them identify legal issues, minimize risk, and become a generation of problem solvers within the sports industry. Contracts, torts, agency, labor/employment, antitrust, and intellectual property law are all addressed, as well as health and safety issues and high school, college, and international/Olympic/regulatory concerns. In a world where sports has proven to be a leader, the book also addresses racial and gender equity issues in depth.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mylawfirm.myshopify.com/products/5500699279522</id>
+      <title>Default Title</title>
+      <s:price currency="USD">133.23</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

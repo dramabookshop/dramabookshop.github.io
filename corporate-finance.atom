@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mylawfirm.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mylawfirm.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mylawfirm.myshopify.com/collections/corporate-finance.atom"/>
+  <title>The Drama Book Shop, Inc.</title>
+  <updated>2020-07-20T04:46:12-04:00</updated>
+  <author>
+    <name>The Drama Book Shop, Inc.</name>
+  </author>
+  <entry>
+    <id>https://mylawfirm.myshopify.com/products/5480447541410</id>
+    <published>2020-07-20T04:46:12-04:00</published>
+    <updated>2020-07-20T04:46:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mylawfirm.myshopify.com/products/corporate-finance-a-practical-approach-cfa-institute-investment-series-book-42"/>
+    <title>Corporate Finance: A Practical Approach (CFA Institute Investment Series Book 42)</title>
+    <s:type>book</s:type>
+    <s:vendor>The Drama Book Shop, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/1532/6370/products/book-006.jpg?v=1595234773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Drama Book Shop, Inc.<br>
+        <strong>Type: </strong>book<br>
+        <strong>Price: </strong>
+            58.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-single__description rte">
+<p>The book that fills the practitioner need for a distillation of the most important tools and concepts of corporate finance<br></p>
+<p>In today's competitive business environment, companies must find innovative ways to enable rapid and sustainable growth not just to survive, but to thrive. Corporate Finance: A Practical Approach is designed to help financial analysts, executives, and investors achieve this goal with a practice-oriented distillation of the most important tools and concepts of corporate finance.</p>
+<p>Updated for a post-financial crisis environment, the Second Edition provides coverage of the most important issues surrounding modern corporate finance for the new global economy:</p>
+<p>Preserves the hallmark conciseness of the first edition while offering expanded coverage of key topics including dividend policy, share repurchases, and capital structure<br></p>
+<p>Current, real-world examples are integrated throughout the book to provide the reader with a concrete understanding of critical business growth concepts<br></p>
+<p>Explanations and examples are rigorous and global, but make minimal use of mathematics<br></p>
+<p>Each chapter presents learning objectives which highlight key material, helping the reader glean the most effective business advice possible<br></p>
+<p>Written by the experts at CFA Institute, the world's largest association of professional investment managers<br></p>
+<p>Created for current and aspiring financial professionals and investors alike, Corporate Finance focuses on the knowledge, skills, and abilities necessary to succeed in today's global corporate world.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mylawfirm.myshopify.com/products/5480447541410</id>
+      <title>Default Title</title>
+      <s:price currency="USD">58.36</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mylawfirm.myshopify.com/products/5480437874850</id>
+    <published>2020-07-20T04:44:33-04:00</published>
+    <updated>2020-07-20T04:44:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mylawfirm.myshopify.com/products/international-corporate-finance-value-creation-with-currency-derivatives-in-global-capital-markets-wiley-finance"/>
+    <title>International Corporate Finance: Value Creation with Currency Derivatives in Global Capital Markets (Wiley Finance)</title>
+    <s:type>book</s:type>
+    <s:vendor>The Drama Book Shop, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/1532/6370/products/book-005.jpg?v=1595234673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Drama Book Shop, Inc.<br>
+        <strong>Type: </strong>book<br>
+        <strong>Price: </strong>
+            89.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-single__description rte">
+<p>As globalization is redefining the field of corporate finance, international finance is now part and parcel of the basic literacy of any financial executive. This is why International Corporate Finance is a “must” text for upper-undergraduates, MBAs aspiring to careers in global financial services and budding finance professionals.</p>
+<p>International Corporate Finance offers thorough coverage of the international monetary system, international financing, foreign exchange risk management and cross-border valuation. Additionally, the book offers keen insight on how disintermediation, deregulation and securitization are re-shaping global capital markets.</p>
+<p>What is different about International Corporate Finance?</p>
+<p>Each chapter opens with a real-life mini-case to anchor theoretical concepts to managerial situations.<br></p>
+<p>Provides simple decision rules and “how to do” answers to key managerial issues.<br> Cross-border Mergers &amp; Acquisitions, Project Finance, Islamic Finance, Asian Banking &amp; Finance are completely new chapters that no other textbooks currently cover.<br></p>
+<p>Accompanied with a comprehensive instructor support package which includes case studies, an Instructor’s Manual, PowerPoint slides, Multiple Choice Questions and more.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mylawfirm.myshopify.com/products/5480437874850</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.78</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mylawfirm.myshopify.com/products/5480416411810</id>
+    <published>2020-07-20T04:39:52-04:00</published>
+    <updated>2020-07-20T04:39:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mylawfirm.myshopify.com/products/corporate-finance-aspen-casebook-series"/>
+    <title>Corporate Finance (Aspen Casebook Series)</title>
+    <s:type>book</s:type>
+    <s:vendor>The Drama Book Shop, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/1532/6370/products/book-004.jpg?v=1595234391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Drama Book Shop, Inc.<br>
+        <strong>Type: </strong>book<br>
+        <strong>Price: </strong>
+            219.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-single__description rte">
+<p>Corporate Finance provides coverage in a more concrete and problem-based approach than other books on the market. Robert J. Rhee distinguishes this casebook from other fine books in the field in a number of important ways. This book is interdisciplinary in nature, providing essential coverage of the basic concepts of accounting and finance needed for a business lawyer to understand the economics of the transaction. Additionally, the text facilitates ease of learning and teaching, avoiding excerpting technically dense academic writings in finance and economics, which can intimidate students and teachers. It further provides a basic understanding of financial instruments to prepare students for corporate practice, including many examples of actual financial contract terms and other transactional documents taken from various sources.<br> Features:</p>
+<p>In depth coverage of accounting, finance, valuation, and capital markets in an accessible manner<br></p>
+<p>Inclusion of transactional documents and focus on financial contracts<br></p>
+<p>Generous use of graphics, tables, and charts to organize and convey complex information<br> Accessibility of materials<br></p>
+<p>Business school-style case studies at the end of some chapters</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mylawfirm.myshopify.com/products/5480416411810</id>
+      <title>Default Title</title>
+      <s:price currency="USD">219.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>
